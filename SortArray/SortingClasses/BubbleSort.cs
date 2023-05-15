@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SortArray.SortingClasses
 {
+    /// <summary>
+    /// This class represents a car.
+    /// </summary>
     class BubbleSort : ISort
     {
         public void SortArray(int[] numbers)
